@@ -1,24 +1,30 @@
-# vue-guess
+# 🎯 بازی حدس عدد / Number Guessing Game
 
-## Project setup
-```
-npm install
-```
+این پروژه یک بازی حدس عدد است که با **Vue.js** و **Bootstrap** ساخته شده است.  
+کاربر باید عددی بین ۱ تا ۱۰۰ حدس بزند و بازی پیام راهنمایی نمایش می‌دهد.  
+بعد از برد یا پایان تلاش‌ها، می‌توانید بازی را دوباره شروع کنید.  
+در صورت برد، انیمیشن Confetti نمایش داده می‌شود.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This is a **Number Guessing Game** built with **Vue.js** and **Bootstrap**.  
+The player needs to guess a number between 1 and 100.  
+The game gives hints whether the guess is too high or too low.  
+You can restart the game after winning or using all attempts.  
+A confetti animation appears when the player wins.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+---
 
-### Lints and fixes files
-```
-npm run lint
-```
+## ویژگی‌ها / Features
+- استفاده از Bootstrap برای طراحی زیبا / Built with Bootstrap for styling  
+- حدس عدد بین ۱ تا ۱۰۰ / Guess a number between 1 and 100  
+- محدودیت ۵ تلاش / Maximum 5 attempts  
+- پیام راهنما برای کاربر / Hints for the player  
+- انیمیشن Confetti هنگام برد / Confetti animation on win  
+- بازی جدید / Restart game button
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+## نصب و اجرا / Installation & Running
+
+1. کلون کردن ریپازیتوری / Clone the repository:
+```bash
+git clone https://github.com/hosein-mahmoudi/guess-number-game.git
