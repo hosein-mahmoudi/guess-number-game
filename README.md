@@ -1,4 +1,12 @@
 # 🎯 بازی حدس عدد / Number Guessing Game
+---
+
+## 📸 تصاویر / Screenshots
+
+![Screenshot ](screenshot1.png)  
+
+
+---
 
 این پروژه یک بازی حدس عدد است که با **Vue.js** و **Bootstrap** ساخته شده است.  
 کاربر باید عددی بین ۱ تا ۱۰۰ حدس بزند و بازی پیام راهنمایی نمایش می‌دهد.  
@@ -21,10 +29,4 @@ A confetti animation appears when the player wins.
 - انیمیشن Confetti هنگام برد / Confetti animation on win  
 - بازی جدید / Restart game button
 
----
 
-## نصب و اجرا / Installation & Running
-
-1. کلون کردن ریپازیتوری / Clone the repository:
-```bash
-git clone https://github.com/hosein-mahmoudi/guess-number-game.git
