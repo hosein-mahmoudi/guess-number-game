@@ -3,7 +3,7 @@
 
 ## 📸 تصاویر / Screenshots
 
-![Screenshot ](screenshot1.png)  
+![Screenshot ](screenshot.png)  
 
 
 ---
